@@ -1,0 +1,78 @@
+Title	PL Type	Current Year YTD	From TB	Variance	M-1?		Prior Year YTD
+Sales							
+Sales - Merchandise (????)	Revenue	"-84,077,884.57"	"-84,077,884.57"	 -   	Yes		"66,521,239.80"
+Sales Discounts taken (??)	Revenue	"1,569,345.50"	"1,569,345.50"	 -   	Yes		"1,141,932.60"
+Sales - Cash Discount (????)	Revenue	"2,876.83"	"2,876.83"	 -   	Yes		732.24
+Sales Returns (??)	Revenue	"911,619.28"	"911,619.28"	 -   	Yes		"950,103.91"
+Incentive Rebate (??????)	Revenue	"359,243.79"	"359,243.79"	 -   	Yes		"281,710.51"
+Sales Promotion (?????)	Revenue	"9,302,201.70"	"9,302,201.70"	 -   	Yes		"7,783,130.31"
+Sales - Shipping & Handling (??????)	Revenue	"-83,419.37"	"-83,419.37"	 -   	Yes		"78,037.62"
+Total  Sales 		"-72,016,016.84"	"-72,016,016.84"	 -   			"76,756,886.99"
+							
+Cost of Sales							
+Cost of Sales	COGS	"53,716,007.59"	"53,716,007.59"	 -   	Yes		"41,395,272.27"
+Inventory Loss (????)	COGS	"695,395.88"	"695,395.88"	 -   	Yes		"751,362.23"
+Total Cost of Sales		"54,411,403.47"	"54,411,403.47"	 -   			"42,146,634.50"
+							
+Gross Profit		"-17,604,613.37"	"-17,604,613.37"	 -   			"34,610,252.49"
+							
+Operating Expenses							
+Advertisement (?????)	OPEX	"879,937.64"	"879,937.64"	 -   	No		"489,789.95"
+Bad debts (????)	OPEX	"33,451.68"	"33,451.68"	 -   	Yes		"35,961.56"
+Brochures & catalogues (?????)	OPEX	"212,814.67"	"212,814.67"	 -   	No		"200,100.30"
+Business promotion item (?????)	OPEX	"232,807.72"	"232,807.72"	 -   	No		"91,597.17"
+Commission (?????????)	OPEX	"1,210,221.87"	"1,210,221.87"	 -   	No		"989,101.25"
+Communication (???)	OPEX	"123,399.41"	"123,399.41"	 -   	No		"104,360.64"
+Co-op advertisement (?????)	OPEX	"742,484.05"	"742,484.05"	 -   	Yes		"373,608.09"
+Demo expenses (?????)	OPEX	24.44	24.44	 -   	No		"8,520.00"
+Freight out (?????)	OPEX	"2,150,343.92"	"2,150,343.92"	 -   	No		"1,520,355.95"
+Entertainment (?????)	OPEX	"24,450.41"	"24,450.41"	 -   	Yes		"32,137.80"
+Marketing expenses (?????)	OPEX	"429,854.00"	"429,854.00"	 -   	No		"275,512.22"
+Trade show (????)	OPEX	"28,884.04"	"28,884.04"	 -   	No		"123,761.54"
+Auto expenses (????)	OPEX	"6,255.36"	"6,255.36"	 -   	Yes		"7,845.93"
+Amortization of expense (?????????)	OPEX	"80,407.13"	"80,407.13"	 -   	Yes		"84,813.86"
+Bank charges (?????)	OPEX	"149,918.45"	"149,918.45"	 -   	No		"74,030.30"
+Dues  & subscriptions (??? ??)	OPEX	"43,073.13"	"43,073.13"	 -   	No		"59,776.76"
+Lease & rent - equipment (???? ?????)	OPEX	"309,506.34"	"309,506.34"	 -   	Yes		"318,427.31"
+Professional  service (?????)	OPEX	"355,624.69"	"355,624.69"	 -   	No		"293,956.58"
+Office supplies (????)	OPEX	"30,623.09"	"30,623.09"	 -   	No		"26,114.92"
+Postage (???)	OPEX	"3,645.76"	"3,645.76"	 -   	No		"6,754.20"
+Temporary labor (???)	OPEX	"36,740.00"	"36,740.00"	 -   	No		"20,204.36"
+Salaries & wages (?? ??)	OPEX	"3,071,459.01"	"3,071,459.01"	 -   	Yes		"3,002,919.14"
+Employee welfare (?????)	OPEX	"6,242.35"	"6,242.35"	 -   	No		"30,262.65"
+Insurance (???)	OPEX	"700,338.14"	"700,338.14"	 -   	No		"664,705.98"
+Profit sharing plan (??????401K)	OPEX	"40,000.00"	"40,000.00"	 -   	No		"40,000.00"
+Payroll taxes (??????)	OPEX	"196,561.76"	"196,561.76"	 -   	No		"196,270.63"
+Tax & licenses (????)	OPEX	"31,890.95"	"31,890.95"	 -   	No		"48,827.07"
+Depreciation (?????)	OPEX	"120,112.99"	"120,112.99"	 -   	Yes		"120,591.56"
+Donation (???)	OPEX	"10,690.32"	"10,690.32"	 -   	No		 -   
+Repair & maintenance (???)	OPEX	"17,308.81"	"17,308.81"	 -   	No		"15,827.85"
+Royalty (??????????)	OPEX	"84,755.12"	"84,755.12"	 -   	No		"31,661.02"
+Warehouse expenses (???)	OPEX	"2,405,958.96"	"2,405,958.96"	 -   	No		"1,937,473.51"
+Travel expenses (?????)	OPEX	"3,715.72"	"3,715.72"	 -   	No		"79,333.42"
+Miscellaneous expense (??)	OPEX	6.58	6.58	 -   	No		 -   
+Total Operating Expenses		"13,773,508.51"	"13,773,508.51"	 -   			"11,304,603.52"
+							
+Net Income from Operations		"-3,831,104.86"	"-3,831,104.86"	 -   			"23,305,648.97"
+							
+Other (Income) Expenses							
+Interest income (????)	Other Income/Exp	"-7,371.14"	"-7,371.14"	 -   	No		"86,389.04"
+Interest expense (????)	Other Income/Exp	719.99	719.99	 -   	No		-188.06
+Suspense (???)	Other Income/Exp	 -   	 -   	 -   	No		 -   
+Bad debts recovery (??????)	Other Income/Exp	 -   	 -   	 -   	No		"10,218.24"
+Miscellaneous income (???)	Other Income/Exp	"-106,187.16"	"-106,187.16"	 -   	No		"20,638.97"
+Lease income (?????)	Other Income/Exp	"-93,120.00"	"-93,120.00"	 -   	No		"94,040.00"
+Gain (loss) on sale of fixed assets (???????/?)	Other Income/Exp	"-21,100.00"	"-21,100.00"	 -   	Yes		 -   
+Gain (loss) on disposal of fixed assets (???????/?)	Other Income/Exp	562.76	562.76	 -   	Yes		-210.42
+Miescellaneous loss (???)	Other Income/Exp	"5,449.22"	"5,449.22"	 -   	No		"-10,550.48"
+Total Other (Income) Expenses		"-221,046.33"	"-221,046.33"	 -   			"200,337.29"
+							
+Net Income Before Tax		"-4,052,151.19"	"-4,052,151.19"	 -   			"23,505,986.26"
+							
+Income Tax Expense (Benefit)							
+Provision for income tax (?????????)	Tax	"1,339,007.00"	"1,339,007.00"	 -   	Yes		"850,894.00"
+Total Income Tax Expense (Benefit)		"1,339,007.00"	"1,339,007.00"	 -   			"850,894.00"
+							
+Net income		"-2,713,144.19"	"-2,713,144.19"	 -   			"22,655,092.26"
+							
+		 -   					
